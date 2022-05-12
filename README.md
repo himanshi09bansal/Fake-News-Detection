@@ -18,8 +18,8 @@ Predict whether the news is fake or real.
 <b>Title </b>: 	the title of a news article <br/>
 <b> Text </b>: 	the text of the article; incomplete in some cases <br/>
 <b> Label	</b>: 	a label that marks the article as possibly erratic <br/>
-&emsp; 1: fake <br/>
-&emsp; 0: real <br/>
+&emsp; <b>1 </b>: fake <br/>
+&emsp; <b>0 </b>: real <br/>
 
 
 ## END OF THE PROGRAM
